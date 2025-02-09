@@ -17,7 +17,7 @@ This is my personal portfolio showcasing my work as a web developer and graphic 
 ## Setup Instructions
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/portfolio-project.git
+    git clone https://github.com/your-username/portfolio-project_1.git
     ```
 2. Install dependencies:
     ```bash
